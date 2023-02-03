@@ -1,0 +1,10 @@
+.for-bg{
+    background-image: url(../images/hero-bg.png);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.for-btn{
+    border: 3px solid rgb(226, 136, 151) ;
+}
